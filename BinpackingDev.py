@@ -95,7 +95,7 @@ def binpack(articles,bin_cap):
     put your algorithm here 
     """
             
-    return myUsername, myNickname, bin_contents       # use this return statement when you have items to load in the knapsack
+    return myUsername, myNickname, bin_contents       # use this return statement when all items have been packed into a bin
 
     
     
